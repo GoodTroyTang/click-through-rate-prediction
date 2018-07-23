@@ -1,0 +1,15 @@
+### Data and Notes ###
+data
+notes
+__pycache__
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Model for random forest has to be retrained on person's
+# computer until compression
+models/random_forest_model_.sav
