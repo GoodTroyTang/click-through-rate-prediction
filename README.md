@@ -2,6 +2,8 @@
 
 In online advertising, CTR is an important metric to measure an ad's performance. In this project we use a dataset from the [Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction) competiton on Kaggle and evaluate methods for CTR prediction.
 
+*In the demo below, I've trained the models already and have them stored in the 'models' directory in the repo. In order to retrain the models, go into ctr_prediction.py and set the load_model parameter to False in order to retrain on your machine.*
+
 <div align="center">
     <img src="media/output.gif" width="800" alighn="center">
 </div>
