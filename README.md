@@ -8,17 +8,18 @@ In online advertising, CTR is an important metric to measure an ad's performance
 
 ## Contents
 
-* Overview
-* Dataset
-* Model Selection
-* Evaluation Methods
-* Results
-* Usage
-* Dependencies
-* References
-* Attribution
-* Contributing
-* License
+* [Overview](#overview)
+* [Dataset](#dataset)
+* [Learning Algorithms Used](#learning-algorithms-used)
+* [Evaluation Methods](#evaluation-methods)
+* [Results](#results)
+* [Usage](#usage)
+* [Dependencies](#dependencies)
+* [Motivation](#motivation)
+* [References](#references)
+* [Attribution](#attribution)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Overview
 
@@ -32,7 +33,7 @@ For the above problem, machine learning is heavily used to in order to improve t
 * Publisher information and content of page (website type, topic, context, etc.)
 * User information (age, income, search history, gender, location, interests, etc.)
 
-## Dataset and Training/Test Split
+## Dataset
 
 The dataset used for this project is the [Avazu CTR Dataset](https://www.kaggle.com/c/avazu-ctr-prediction/data) which contains 11 days of click-through data. 10 days of click-through data is used for training, and 1 day of ads to test the model. The dataset contains many features including site domains, categories, user device/ip/location, banner positon, and label of whether the ad was clicked or not.
 
@@ -78,7 +79,7 @@ As someone who has worked in digital marketing in the past and have used product
 * [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
 * [Predict the Click-Through Rate and Average Cost Per Click for Keywords Using Machine Learning Methodologies](http://ieomsociety.org/ieomdetroit/pdfs/246.pdf)
 
-## Attribution and Inspiration
+## Attribution
 
 * Icon by [Gilbert Bages](https://thenounproject.com/gilbertbages/) from [thenounproject](https://thenounproject.com/).
 
